@@ -1,4 +1,4 @@
-baseURL = "http://cloudvn2.netlify.com"
+baseURL = "http://cloudvn2.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
