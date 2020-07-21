@@ -17,7 +17,7 @@ contentDir = "content/vi"
 copyright = "Copyright &copy; 2020 Made by [Cloud.VN](https://cloud.vn)"
 home = "Accueil"
 languageCode = ""
-languageName = ""
+languageName = "FR"
 weight = ""
 [[menu.footer]]
 URL = "teacher"
