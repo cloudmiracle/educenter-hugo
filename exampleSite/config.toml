@@ -75,14 +75,14 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "66-68 Nam Ky Khoi Nghia,  Nguyen Thai Binh Ward, District 1, HCMC"
+author = "CloudVN"
 contact_form_action = "#"
 description = "This is meta description"
 email = "hello@cloud.vn"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "0833223323"
 top_header = true
 [params.map]
 enable = true
