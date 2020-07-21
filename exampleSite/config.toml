@@ -4,7 +4,7 @@ disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Cloud.VN | Cloud Training"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Made by [Cloud.VN](https://cloud.vn)"
